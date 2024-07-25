@@ -21,7 +21,7 @@ A Jessie é um assistente virtual avançado desenvolvido para facilitar tarefas 
 ## **Instalação**
 1. Clone esse repositório:
     ```bash
-    git clone https://github.com/jhcxrrea/jessie
+    git clone https://github.com/jhcxrrea/Jessie-Assistente-Virtual
     ```
 2. Instale as dependências listadas no `requirements.txt`:
     ```bash
