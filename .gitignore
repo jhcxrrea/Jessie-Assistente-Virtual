@@ -1,0 +1,124 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.Python
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+wheels/
+
+# PyInstaller
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Translations
+*.mo
+*.pot
+
+# Documentation
+docs/_build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+ENV/
+env.bak/
+venv.bak/
+.pyenv/
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+
+# Pyre type checker
+.pyre/
+
+# Temporary files and directories
+*.tmp
+*.temp
+*.swp
+*.swo
+*.swn
+
+# PyCharm specific
+.idea/
+*.iml
+*.iws
+
+# Local configurations
+config.yaml
+config.json
+settings.yaml
+settings.json
+
+# Log files
+logs/
+*.log
+
+# Secret files
+secrets/
+secrets.txt
+
+# Ignore Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+
+# Specific files
+response.mp3
+notes.txt
+
+# HugChat cookies
+cookies_snapshot/
+
+# Any specific .ico file used for window icon
+*.ico
