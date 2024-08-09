@@ -89,6 +89,3 @@ Se você deseja contribuir para o projeto, por favor, siga estas etapas:
 
 Este projeto é licenciado sob a [MIT License](LICENSE).
 
-## **Contato**
-
-Para dúvidas ou suporte, entre em contato com [jhcxrrea@gmail.com].
